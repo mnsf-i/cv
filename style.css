@@ -119,3 +119,7 @@ body {
   a[href^="tel:"] {
 	color: #FFFFFF; /* white */
   }
+  .float-right {
+	float: right;
+	margin-left: 10px;
+  }
